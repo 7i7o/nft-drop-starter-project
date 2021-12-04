@@ -1,5 +1,7 @@
 .App {
   height: 100vh;
+  background: url("./assets/background.jpeg") no-repeat center;
+  background-size: 200vh;
   background-color: rgb(20, 20, 20);
   overflow: scroll;
   text-align: center;
@@ -32,6 +34,8 @@
   margin: 0;
   font-size: 50px;
   font-weight: bold;
+  background: rgb(20, 20, 20, 0.5);
+  border-radius: 10px;
 }
 
 .sub-text {
@@ -39,10 +43,13 @@
 }
 
 .gradient-text {
-  background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%);
+  /* background: -webkit-linear-gradient(left, #60c657 30%, #35aee2 60%); */
+  background: -webkit-linear-gradient(left, #880d00 30%, #f3c300 70%);
   background-clip: text;
+  background-size: 200% 200%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  animation: gradient-animation 4s ease infinite;
 }
 
 .cta-button {

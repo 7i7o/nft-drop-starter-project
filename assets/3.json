@@ -1,0 +1,19 @@
+{
+    "name": "Gryffindor Crest",
+    "symbol": "",
+    "image": "3.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "3.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4qkgtbMzusDZELVaBK2p96qLkGX4LFjfg6xdqUCFcucZ",
+          "share": 100
+        }
+      ]
+    }
+  }
