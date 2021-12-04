@@ -1,0 +1,19 @@
+{
+    "name": "Hermione Granger",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "4qkgtbMzusDZELVaBK2p96qLkGX4LFjfg6xdqUCFcucZ",
+          "share": 100
+        }
+      ]
+    }
+  }
